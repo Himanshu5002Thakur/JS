@@ -14,4 +14,4 @@ Don't use var, because of issues in block scope and functional  scope
 subjectName = "js";
 
 //console.log(rollNo);
-console.table([rollNo,subjectName,city,studentName,marks]);
+console.table([rollNo,subjectName,studentName,marks]);
